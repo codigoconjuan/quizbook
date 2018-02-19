@@ -1,2 +1,2 @@
 # quizbook
-Plugin para examenes con WordPress
+Plugin para crear Quizes con WordPress
